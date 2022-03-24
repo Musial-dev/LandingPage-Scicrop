@@ -6,6 +6,6 @@
 :exclamation: Seções obrigatorias no projeto: principal, conteudo e contato. </br>
 :star: Seções adicionais optativas: soluções e planos. </br> </br> 
 
-
+![WhatsApp Image 2022-03-23 at 22 41 16 (1)](https://user-images.githubusercontent.com/90053879/159829254-92c82b9d-ec00-4007-b165-f6dd323735ca.jpeg)
 
 
